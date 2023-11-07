@@ -1,5 +1,5 @@
 
-![Vincenzo parrulli Banner Image](./profile_img.jpg)
+![Vincenzo parrulli Banner Image](./code.jpg)
 
 
 <h2>Hey! 👋</h2>
