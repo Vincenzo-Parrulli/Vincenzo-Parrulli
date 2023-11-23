@@ -10,7 +10,7 @@ I'm Vincenzo Parrulli
 <h2> 💻 I'm Currently Learning</h2>
 
 - <i>HTML /CSS</i>
-- <i>Java Sccript</i>
+- <i>JavaScript</i>
 - <i>React</i>
 
 
