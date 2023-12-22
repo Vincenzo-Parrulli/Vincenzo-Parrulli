@@ -5,7 +5,9 @@
 
 Hey there! I'm Vincenzo, an aspiring front-end developer based in Turin, Italy.
 
-As I begin my journey in the vast realm of web development, I'm thrilled to be part of the GitHub community—a place where innovation meets collaboration. My passion lies in creating seamless and engaging user experiences while constantly exploring the nuances of front-end development.
+As I begin my journey in the vast realm of web development,
+I'm thrilled to be part of the GitHub community—a place where innovation meets collaboration.
+My passion lies in creating seamless and engaging user experiences while constantly exploring the nuances of front-end development.
 
 With an eagerness to learn and grow, I'm diving headfirst into mastering HTML, CSS, and JavaScript. My fascination with turning concepts into visually stunning designs drives me to experiment, refine, and push my boundaries in this evolving field.
 
